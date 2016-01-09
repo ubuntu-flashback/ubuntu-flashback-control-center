@@ -1,0 +1,14 @@
+Source: ubuntu-flashback-control-center
+Section: x11
+Priority: optional
+Maintainer: Mystic-Mirage <mm@m10e.net>
+Build-Depends: debhelper (>= 9),
+Standards-Version: 3.9.6
+Homepage: https://launchpad.net/ubuntu-flashback/
+
+Package: ubuntu-flashback-control-center
+Architecture: any
+Depends: unity-control-center
+Conflicts: gnome-control-center
+Description: Replace Gnome Control Center with Unity Control Center
+ Replace Gnome Control Center with Unity Control Center.
