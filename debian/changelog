@@ -1,3 +1,9 @@
+ubuntu-flashback-control-center (0.2~xenial1) xenial; urgency=medium
+
+  * Update to Ubuntu 16.04
+
+ -- Mystic-Mirage <mm@m10e.net>  Thu, 10 Mar 2016 22:06:49 +0200
+
 ubuntu-flashback-control-center (0.1~wily1) wily; urgency=medium
 
   * Initial commit
